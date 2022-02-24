@@ -1,9 +1,7 @@
-/*
-	Atividade- introdução a algoritmo 
+/*		Atividade- introdução a algoritmo 
 	
  1. Faça um sistema que leia a idade de uma pessoa expressa em anos, 
- meses e dias e mostre-a expressa apenas em dias.
- */ 
+ meses e dias e mostre-a expressa apenas em dias. */ 
 
 programa
 {
